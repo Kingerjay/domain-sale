@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './Index.css'
+import './index.css'
 import { Navigate, Route, Routes } from 'react-router-dom'
 // import Home from './pages/Home'
 // import Houstonrealestate from './pages/Houstonrealestate'
